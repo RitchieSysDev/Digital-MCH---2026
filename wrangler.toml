@@ -1,0 +1,10 @@
+name = "digitalmch2026"
+compatibility_date = "2024-09-23"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "digitalmch2026"
+database_id = "replace-with-your-d1-database-id"
+
+[vars]
+AUTH_SECRET = "replace-with-a-strong-secret"
